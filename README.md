@@ -44,7 +44,7 @@ Web Development • Tech
   <tr>
     <!-- Project 3: Simple Calculator Web App -->
     <td width="50%" align="center" valign="top">
-      <h3>Simple Calculator Web App</h3>
+      <h3>Simple Calculator</h3>
       <img src="https://raw.githubusercontent.com/rajvircodes/HTML-CSS-JS-projects/main/24-calculator-app/prev-img.png" width="95%" alt="Calculator Preview" style="border-radius: 8px; max-height: 220px; object-fit: cover;">
       <p style="margin-top: 10px;">
         <a href="https://github.com/rajvircodes/HTML-CSS-JS-projects/tree/main/24-calculator-app" target="_blank">
@@ -55,14 +55,17 @@ Web Development • Tech
         </a>
       </p>
     </td>
-    <!-- Project 4: Future JS Project Placeholder -->
+    <!-- Project 4: Expanding Cards -->
     <td width="50%" align="center" valign="top">
-      <h3>Upcoming Project</h3>
-      <div style="width: 95%; height: 180px; background: #222; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-        <span style="color: #666;">Coming Soon...</span>
-      </div>
-      <p style="margin-top: 10px; visibility: hidden;">
-        <a><img src="https://img.shields.io/badge/REPO_WEB-100000?style=for-the-badge"></a>
+      <h3>Expanding Cards</h3>
+      <img src="https://raw.githubusercontent.com/rajvircodes/HTML-CSS-JS-projects/main/29-Expanding-cards/prev-img.png" width="95%" alt="Expanding Cards Preview" style="border-radius: 8px; max-height: 220px; object-fit: cover;">
+      <p style="margin-top: 10px;">
+        <a href="https://github.com/rajvircodes/HTML-CSS-JS-projects/tree/main/29-Expanding-cards" target="_blank">
+          <img src="https://img.shields.io/badge/REPO_WEB-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+        </a>
+        <a href="https://expending-cards-projects-xumt.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-4250E4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+        </a>
       </p>
     </td>
   </tr>
