@@ -5,6 +5,31 @@ Web Development • Tech
 
 ## 📁 Featured Work 
 
+#### Full-Stack Projects
+
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>AI Code Reviewer</h3>
+      <img src="https://raw.githubusercontent.com/rajvircodes/AI-code-reviewer/main/frontend/public/prev-img.png" width="95%" alt="AI Code Reviewer Preview" style="border-radius: 8px; max-height: 220px; object-fit: cover;">
+      <p style="margin-top: 10px;">
+        <a href="https://github.com/rajvircodes/AI-code-reviewer" target="_blank">
+          <img src="https://img.shields.io/badge/REPO_WEB-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+        </a>
+        <a href="https://ai-code-reviewer-sooty-ten.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-4250E4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3>Next Full-Stack Project</h3>
+      <div style="background: #1a1a1a; width: 95%; height: 180px; border-radius: 8px; display: flex; align-items: center; justify-content: center; border: 1px dashed #555;">
+        <p style="color: #888; font-size: 16px; font-weight: bold;">⏳ Coming Soon...</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 #### React Projects
 
 <table width="100%" border="1" cellspacing="0" cellpadding="0">
